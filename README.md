@@ -1,4 +1,4 @@
-This is a base project with EsLint and Prettier configuration
+This is a base project with EsLint and Prettier configuration and Styled components support
 
 ## Getting Started
 
