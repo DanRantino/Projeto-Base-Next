@@ -1,0 +1,10 @@
+{
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnType": false,
+  "files.eol": "\n",
+  "prettier.configPath": "C:\\Users\\daniel.furst\\Desktop\\Daniel\\react\\base-projeto\\.prettierrc"
+}
